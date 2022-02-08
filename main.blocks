@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="*.O:nm2@w#UVtMGy^}2Q">myImage</variable></variables><block type="device_forever" id="OgNX;=NsbJf)4Y7|74Pp" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="kzj2/Ka640*0donNS2g("><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="q3[Ml![:A30;tuvrE;;1"><field name="LEDS">`
+        . # . . . 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="m~%LsIaGO~^p*t13=CH:"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="teP)3I-fPb[%29^ly8np"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="j+DF-3^h(b.^S0=3E2(d"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="6.KG@42~V7scg9[qvGx~"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="8Gqm(6Za5=poeF?/SkvI"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # # 
+        . . . . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="-U]+(=S0lL6JxweGr58*"><field name="LEDS">`
+        . . . . # 
+        . . . # . 
+        . . # # # 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="device_show_leds" id="j$+1Y1T@Z1{?0pj!t(x{"><field name="LEDS">`
+        . . . # . 
+        . . # . . 
+        . # # # # 
+        . . # . . 
+        . . . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
